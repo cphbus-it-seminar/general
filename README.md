@@ -13,8 +13,8 @@
 ## Prices
 
 ```
-Flight CPH-Geneve ≈ 2.500 DKK
-Train Geneve-Sion ≈   350 DKK
-Hostel            ≈ 1.310 DKK
-Food                    ? DKK
+Flight Copenhagen-Genève ≈ 2.500 DKK
+Train Genève-Sion        ≈   350 DKK
+Hostel                   ≈ 1.310 DKK
+Food                           ? DKK
 ```
