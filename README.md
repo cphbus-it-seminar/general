@@ -18,3 +18,21 @@ Train Genève-Sion        ≈   350 DKK
 Hostel                   ≈ 1.310 DKK
 Food                           ? DKK
 ```
+
+## Meeting 2017-03-10 12:30
+
+There were two students an d two teachers at the meeting.
+
+We decided to advertise some more for the project.
+Purchase of tickets for student will be done at a later moment together.
+
+We discussed the following subjects as Danish topic for the seminar:
+
+ * Time, and problems with Time
+   - Summer time
+   - Time zones
+   - Time formats
+   - Week numbers
+   - Calendars
+ * Git and Continuous Delivery
+ * ...  
