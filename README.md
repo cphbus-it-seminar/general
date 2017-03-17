@@ -10,6 +10,9 @@
 
 [Cphbusiness](https://www.cphbusiness.dk/english/)
 
+# Info meeting Friday 17th at 11:00 in 1.03
+
+
 ## Prices
 
 ```
